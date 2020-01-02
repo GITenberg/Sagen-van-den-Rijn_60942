@@ -1,0 +1,31 @@
+_repo: Sagen-van-den-Rijn_60942
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Meyen-Barends, W. B.
+    gutenberg_agent_id: '51199'
+    url: http://www.gutenberg.org/2009/agents/51199
+creator:
+  author:
+    agent_name: Ruland, Wilhelm
+    birthdate: 1869
+    deathdate: 1927
+    gutenberg_agent_id: '5897'
+    url: http://www.gutenberg.org/2009/agents/5897
+    wikipedia: https://de.wikipedia.org/wiki/Wilhelm_Ruland
+description: ''
+gutenberg_issued: '2019-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60942'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legends -- Rhine River'
+- !lcc 'DD'
+- !lcsh 'Legends -- Rhine River Valley'
+- GITenberg
+title: Sagen van den Rijn
+url: http://www.gutenberg.org/ebooks/60942
