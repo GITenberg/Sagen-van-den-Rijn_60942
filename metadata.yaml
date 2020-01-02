@@ -1,10 +1,13 @@
 _repo: Sagen-van-den-Rijn_60942
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Meyen-Barends, W. B.
     gutenberg_agent_id: '51199'
     url: http://www.gutenberg.org/2009/agents/51199
+covers:
+- cover_type: archival
+  image_path: 60942-h/images/01_cover.jpg
 creator:
   author:
     agent_name: Ruland, Wilhelm
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5897
     wikipedia: https://de.wikipedia.org/wiki/Wilhelm_Ruland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60942#Sagen-van-den-Rijn
 gutenberg_issued: '2019-12-16'
 gutenberg_type: Text
 identifiers:
